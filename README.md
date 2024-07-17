@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @modestkid
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on making a game
 - 📫 How to reach me dmcleland@gmail.com
 
 <!---
